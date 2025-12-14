@@ -57,13 +57,13 @@ I excel at translating **business needs into precise test coverage**. My daily w
 ### 🧩 Test Scenarios (Manual & API)
 
 * **Login and Register Membership – E-Commerce Scenario**
-  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Testing%20Scenario-Membership-Apps%20Ecommerce.xlsx)
+  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Testing%20Scenario-Membership-Apps%20Ecommerce.xlsx]
 
 * **Pet Store Sample API Scenario**
-  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Testing%20Scenario%20API%20Sample.xlsx)
+  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Testing%20Scenario%20API%20Sample.xlsx]
 
 * **OrangeHrm Scenario Test**
-  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Test%20Case%20Orange%20Hrm.xlsx)
+  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Test%20Case%20Orange%20Hrm.xlsx]
 
 
 ### 🤖 Automation Testing Projects
