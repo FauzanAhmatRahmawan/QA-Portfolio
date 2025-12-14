@@ -93,6 +93,11 @@ https://drive.google.com/file/d/1fEOmWFCrVdxMQWAeac78Zt-_s2AS3DuW/view
 
 ## 🤝 Let’s Connect
 
+<p>
+    <a href="https://www.linkedin.com/in/fauzanahmatr/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto: fauzanrahmawan81@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+</p>
+
 If you are a **Recruiter, Hiring Manager, or Fellow QA Engineer**, feel free to explore this repository.
 
 I’m always open to discussing:
