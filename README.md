@@ -52,4 +52,41 @@ I excel at translating **business needs into precise test coverage**. My daily w
 | Database            | SQL, postgresql                               |
 | Version Control     | Git, GitHub                                   |
 
+## 🔗 Portfolio Highlights
+
+### 🧩 Test Scenarios (Manual & API)
+
+* **Login and Register Membership – E-Commerce Scenario**
+  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Testing%20Scenario-Membership-Apps%20Ecommerce.xlsx)
+
+* **Pet Store Sample API Scenario**
+  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Testing%20Scenario%20API%20Sample.xlsx)
+
+* **OrangeHrm Scenario Test**
+  [https://github.com/FauzanAhmatRahmawan/QA-Portfolio/blob/main/Portofolio/Test%20Case%20Orange%20Hrm.xlsx)
+
+
+### 🤖 Automation Testing Projects
+
+* **Katalon Demo Heroku App - Login Test With Katalon Automation**
+  [https://github.com/FauzanAhmatRahmawan/Katalon-Demo-Heroku-App]
+
+* **Katalon – Demoblaze Automation**
+  [https://github.com/FauzanAhmatRahmawan/AutomationDemoBlaze]
+
+* **Katalon – SourceDemo Automation**
+  [https://github.com/FauzanAhmatRahmawan/Automation-Katalon-Source-Demo]
+---
+
+## 🤝 Let’s Connect
+
+If you are a **Recruiter, Hiring Manager, or Fellow QA Engineer**, feel free to explore this repository.
+
+I’m always open to discussing:
+
+* QA best practices
+* Test strategy improvement
+* Automation & performance testing
+* Opportunities in **QA, Product, or Project-focused roles**
+
 ---
