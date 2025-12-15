@@ -80,7 +80,7 @@ I excel at translating **business needs into precise test coverage**. My daily w
 - **Katalon – SauceDemo Automation**  
   https://github.com/FauzanAhmatRahmawan/Automation-Katalon-Source-Demo
 
-  - **K6 Peformance Test – Demo Heroku App (Login Load Test)**  
+- **K6 Peformance Test – Demo Heroku App (Login Load Test)**  
   https://github.com/FauzanAhmatRahmawan/Peformance-Test-K6-Heroku-App
 
 ---
