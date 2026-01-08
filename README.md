@@ -83,6 +83,10 @@ I excel at translating **business needs into precise test coverage**. My daily w
 - **K6 Peformance Test – Demo Heroku App (Login Load Test)**  
   https://github.com/FauzanAhmatRahmawan/Peformance-Test-K6-Heroku-App
 
+
+- **Katalon – OrangeHRM Data Driven Automation (Login Test With Data Driven)**  
+  https://github.com/FauzanAhmatRahmawan/Orangehrm-Katalon-Data-Driven
+  
 ---
 
 ## 📄 Curriculum Vitae (CV)
@@ -90,7 +94,7 @@ I excel at translating **business needs into precise test coverage**. My daily w
 For a more detailed overview of my professional background, experience, and skills, you can access my CV here:
 
 🔗 **CV / Resume (PDF)**  
-https://drive.google.com/file/d/1fEOmWFCrVdxMQWAeac78Zt-_s2AS3DuW/view
+https://drive.google.com/file/d/1D-cvLk1iGp-zLsHSaZ6-iyNmEZCKbRRa/view?usp=sharing
 
 ---
 
